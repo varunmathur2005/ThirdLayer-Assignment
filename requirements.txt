@@ -1,0 +1,23 @@
+# Core dependencies: NONE!
+# The memory store uses only Python standard library:
+# - sqlite3 (built-in)
+# - json (built-in)
+# - dataclasses (built-in, Python 3.7+)
+# - typing (built-in)
+# - collections (built-in)
+# - hashlib (built-in)
+# - time (built-in)
+# - datetime (built-in)
+
+# Python version requirement
+# python>=3.7
+
+# Optional: For Streamlit web demo
+streamlit>=1.28.0  # Web interface demo
+
+# Optional development dependencies for enhanced features:
+# numpy>=1.20.0  # For advanced analytics (optional)
+# pandas>=1.3.0  # For data analysis (optional)
+
+# For testing:
+# unittest (built-in)
