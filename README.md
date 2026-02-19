@@ -2,6 +2,17 @@
 
 A powerful, production-ready memory system that enables browser agents to learn, adapt, and personalize their behavior over time through intelligent pattern recognition and searchable memory storage.
 
+## 🚀 Live Demo
+
+**Try it now:** [https://thirdlayer-assignment.streamlit.app/](https://thirdlayer-assignment.streamlit.app/)
+
+Interactive web interface with:
+- One-click demo
+- Real-time pattern learning
+- Memory search and filtering
+- Analytics dashboard
+- Export functionality
+
 ## 🌟 Features
 
 ### Core Capabilities
